@@ -8,7 +8,7 @@
 - [Contact](#contact)
 
 ## Projects
-List of personal projects in this repo:
+List of personal projects in this repo (can include things like senior project capstone, allowed school projects, personal projects, etc.):
 
 ### [Example Project 1]
 - Description: [*this is where description of project 1 goes*]
